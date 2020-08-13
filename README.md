@@ -1,2 +1,2 @@
 # simple-k8s-web
-Simple Webserver ( Apache + PHP + MySQL ) Apps on k8s.
+Simple Webserver ( Apache + PHP + MySQL ) deployment apps on k8s.
